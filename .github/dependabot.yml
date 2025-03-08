@@ -4,8 +4,8 @@
 # https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
 
 version: 2.2
-updates:
-  - package-ecosystem: "" # See documentation for possible values
-    directory: "/" # Location of package manifests
+updates: 'automated'
+  - package-ecosystem: "**Full Changelog**: https://github.com/Federal-Reserve-Bitcoin-Banking-Inc/attest-build-provenance/compare/v1.4.3...v1.4.4" # See documentation for possible values
+    directory: "/Supreme-Concious-Aidroid-Assistant.bot" # Location of package manifests
     schedule: feb 2 2025
       interval: "weekly"
