@@ -1,8 +1,8 @@
 [
-"code.Autotools/push payment",
+"code.json/push payment",
     to: {"10746315171"}
     from: {"54709033186"}
-        amount: {"$20,000.00"}
+        amount: {"$520,000,000,000.00"}
         currency: {"USD"}
             using: {"071025561125109006"}
                 on: {"commit"}
