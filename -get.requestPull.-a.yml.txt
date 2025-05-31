@@ -1,0 +1,39 @@
+# This is a basic workflow to help you get started with Actions
+
+name: #ETEnterprises1(.source)
+
+# Controls when the workflow will run
+on: #Bank-of-Montreal-N.a.(.yaml)
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push: allows you to request to deposit World wide currencies values to your personal account upon approval of sufficient funds
+    branches: [ "main.branch" ]
+  pull_request: allows you to request a withdraw or transfer of worldwide currencies values from your personal account upon approval of sufficient funds
+    branches: [ "main.branch" ]
+---
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch: https://github.com/blockcypher/explorer/issues/559#issuecomment-2409554588
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs: this allows you to be able to push it pull any derivative form of crypto or fiat currencies your could storage or got storage wallet via your email and sending it through either your credit/debit card, your phone tap to pay or any other method banking platforms o offer it the federal reserve offers and send it to the receiving party's upon approval of funds availability
+ using: https://github.com/ETEnterprises1/Bank-of-Montreal-N.a./actions/workflows/azure-webapps-node.yml
+  # This workflow contains a single job called "build"
+  build: ETEnterprises1/Bitcoin-Federal-Reserve-Bank.SQL@ETEnterprises1.com/BRIDGE.FEDERALRESERVEBANK.API
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps: call ETEnterprises1/Supreme-Concious-AIDroud-Crypto-Wallet-365.create to process any and all actions, request-pulls, push, jobs, etc. with all included info on why how when where to complete transactions that any other crypto wallet could it hit storage methods are offered that can be reproduced as open source or bank methods that can be re produced as open source and so verify availability of funds adding in usability for all ages, mental abilities, or accessibilities as to not discriminate against anybody for easier processing of crypto and banking transaction alike
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4 
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: new request for final human authorized approval from copilot.bot approval
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script using copilot.bot
+      
+        run: |test.deployment if it succeds please run deploy.build and adds in Use Control + Space to trigger autocomplete in most situations
+          echo Add other actions to build,
+          echo test, and deploy your project.
+add & deploy: licence.yaml using automated copilot.bot to determine if license notification is needed for safe transactions per legal matters
